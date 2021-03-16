@@ -7,9 +7,6 @@ https://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIxIDEyOjA6MyBQTSZoYXNoX3ZhbHVlPVpjMlVmTnE4UHhURG5WWmhUVTNxOGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00NmM1ODNjMC0xMmJkLTQ2MzctYTMyNS1kZDQ2MTVlMmU5MWI=
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP 3" tvg-logo="https://m3upt.com/logos/RTP3.png",RTP 3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?token=1615698000_9b6ea118d288479587f32a5044b85072715f7912&DVR
-
 #EXTINF:-1 group-title="TV" tvg-id="SIC NOTICIAS" tvg-logo="https://m3upt.com/logos/SIC-Notícias.png",SIC Notícias
 https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
@@ -23,21 +20,6 @@ https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CNN Brasil" tvg-logo="https://m3upt.com/logos/CNN-Brasil.png",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP MEMÓRIA" tvg-logo="https://m3upt.com/logos/RTP-Memória.png",RTP Memória
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP ÁFRICA" tvg-logo="https://m3upt.com/logos/RTP-África.png",RTP África
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP AÇORES" tvg-logo="https://m3upt.com/logos/RTP-Açores.png",RTP Açores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP MADEIRA" tvg-logo="https://m3upt.com/logos/RTP-Madeira.png",RTP Madeira
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="https://m3upt.com/logos/RTP-Internacional.png",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
