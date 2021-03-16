@@ -21,8 +21,8 @@ https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CNN Brasil" tvg-logo="https://m3upt.com/logos/CNN-Brasil.png",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",SIC Internacional
-http://live.impresa.pt/live/sicint/sicint.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="SIC I" tvg-logo="https://m3upt.com/logos/SIC-Notícias.png",SIC Internacional
+https://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="PORTO CANAL" tvg-logo="https://m3upt.com/logos/Porto-Canal.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
