@@ -49,7 +49,7 @@ https://rt-france.secure.footprint.net/1107_2500Kb.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RT Español" tvg-logo="https://m3upt.com/logos/RT-Español.png",RT Español
 https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="rt-documentary" tvg-logo="https://m3upt.com/logos/RT-Documentary.png",RT Documentary
+#EXTINF:-1 group-title="TV" tvg-id="RT Documentary" tvg-logo="https://m3upt.com/logos/RT-Documentary.png",RT Documentary
 https://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CGTN HD" tvg-logo="https://m3upt.com/logos/CGTN.png",CGTN
