@@ -31,7 +31,7 @@ https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="T MACAU" tvg-logo="https://m3upt.com/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (CN)
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SBT [Brazil]" tvg-logo="https://m3upt.com/logos/SBT.png",SBT
+#EXTINF:-1 group-title="TV" tvg-id="SBT" tvg-logo="https://m3upt.com/logos/SBT.png",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://m3upt.com/logos/Euronews.png",Euronews (ES)
