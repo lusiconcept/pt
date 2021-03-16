@@ -207,6 +207,3 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Alsace 20" tvg-logo="https://m3upt.com/logos/Alsace-20.png",Alsace 20
 https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="Alsace 20" tvg-logo="https://m3upt.com/logos/Gabruu-TV.png",Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8
