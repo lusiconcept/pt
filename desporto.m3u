@@ -118,7 +118,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Red Bull TV (720p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-url="" group-title="Sport",Rede Globo
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-id="RugbyMensSevens.ie" tvg-name="Rugby Men's Sevens" tvg-country="IE" tvg-language="English" tvg-logo="https://i.imgur.com/dIzAmT0.png" tvg-url="" group-title="Sport",Rugby Men's Sevens (288p)
 https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="RugbyWomensSevens.ie" tvg-name="Rugby Women's Sevens" tvg-country="IE" tvg-language="English" tvg-logo="https://i.imgur.com/HZp8PAw.png" tvg-url="" group-title="Sport",Rugby Women's Sevens (288p)
