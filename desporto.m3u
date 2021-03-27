@@ -131,8 +131,6 @@ https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-name="Snowy Mountains Television" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Snowy Mountains Television (1082p)
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-id="Sport1.ua" tvg-name="Sport 1" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wBJI5Jw.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",Sport 1
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-country="US" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" tvg-url="" group-title="Sport",Stadium (720p)
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-id="STIRRSports.us" tvg-name="STIRR Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Sport",STIRR Sports (720p)
