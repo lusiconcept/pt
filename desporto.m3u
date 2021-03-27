@@ -155,8 +155,6 @@ https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k
 https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8
 #EXTINF:-1 tvg-id="TheTennisChannel.us" tvg-name="The Tennis Channel" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" tvg-url="" group-title="Sport",The Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-name="TVRI Sport HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/zjh63nC.jpg" tvg-url="" group-title="Sport",TVRI Sport HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-url="" group-title="Sport",TVS Boxing (720p)
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="TVS Classic Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ui099xQ.jpg" tvg-url="" group-title="Sport",TVS Classic Sports (720p)
